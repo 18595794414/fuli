@@ -1,0 +1,4 @@
+.ider
+image/
+__pycache__
+*.log*
